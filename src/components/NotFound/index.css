@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.notfound-image {
+  height: 30vh;
+  width: 30vw;
+}
+.notfound-heading {
+  font-size: 40px;
+  color: #12022f;
+}
+.notfoundContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
